@@ -4,8 +4,6 @@ Moreover, users enjoy comprehensive CRUD (Create, Read, Update, Delete) operatio
 
 To ensure data persistence and accessibility, user information is stored in a MongoDB database, offering a reliable foundation for future use. This robust architecture enhances the overall user experience, combining privacy protection, content management, and seamless data storage.
 
-deployed URL : https://6553909a3e1a50007958eb18--sensational-jalebi-e5e47f.netlify.app/
+deployed URL : [https://6553909a3e1a50007958eb18--sensational-jalebi-e5e47f.netlify.app/](https://blogapprs.netlify.app/)
 
-<img width="960" alt="Screenshot 2023-11-14 204951" src="https://github.com/Bavithran97/Blog-app-Frontend/assets/133184385/6eff56d4-df7a-4da5-b15c-73a7f3b162e4">
-
-<img width="960" alt="Screenshot 2023-11-14 204648" src="https://github.com/Bavithran97/Blog-app-Frontend/assets/133184385/61f6e93c-80ad-4007-918b-e444de350a75">
+![Screenshot 2024-06-13 231245](https://github.com/SunilSurendran1906/BLOGAPP_FRONTEND/assets/133184647/4d5a17be-dec9-4d61-ad3f-24ebc3a5c83e)
